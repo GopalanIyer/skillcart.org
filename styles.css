@@ -36,7 +36,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center !important;
-  /* justify-content: center !important; */
   flex-wrap: nowrap !important;
 }
 
@@ -95,7 +94,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: var(--color);
-  background-image: url(/asset/header-bg.png);
+  background-image: url(./asset/header-bg.png);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
