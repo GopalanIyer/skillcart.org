@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "skillcart.org",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "skillcart.org"
+	}
+}
