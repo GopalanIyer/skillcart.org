@@ -94,7 +94,7 @@ header.masthead {
     padding-bottom: 6rem;
     text-align: center;
     color: var(--color);
-    background-image: url(/asset/header-bg.png);
+    background-image: url(./asset/header-bg.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
