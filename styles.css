@@ -569,7 +569,6 @@ header.masthead {
 }
 
 footer {
-  margin-top: 2rem;
   background-color: var(--background-color);
   color: var(--primary-color);
   display: flex;
@@ -693,6 +692,19 @@ footer {
     flex: 1 30%;
     width:50%;
     margin: 1rem;
+  }
+}
+@media (max-width:600px){
+  .form-row{
+    display:grid;
+    grid-template-columns: 200px;
+  }
+  footer{
+    padding:0.5rem;
+    flex-direction: column;
+  }
+  footer .col-lg-4{
+    margin:0.5rem;
   }
 }
 @media (max-width: 700px){
