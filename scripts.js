@@ -2,6 +2,8 @@ var barIcon = document.querySelector(".fa-bars");
 var timesIcon = document.querySelector(".fa-times");
 var navList = document.querySelector(".navbar-nav");
 
+
+// barIcon.style.color="white";
 barIcon.addEventListener("click",()=>{
     timesIcon.style.display="block";
     barIcon.style.display="none";
